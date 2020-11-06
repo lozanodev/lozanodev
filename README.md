@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🌱 Life Goal: Became someone markable, no matter that it's as a friend, a lider or a piece of history in the world.
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to design logos,and analise everything on my surrouding.
 
 ### Spotify Playing 🎧
 
