@@ -2,7 +2,8 @@
 
 ## I'm a Gamer, Artist and Developer!!
 
-- 🌱 I’m currently learning java/cybersecurity/javascript 🤣
+- 🌱 I’m currently learning java/cybersecurity/javascra
+- ipt 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribuate to a big project
 - 🌱 Life Goal: Became someone markable, no matter that it's as a friend, a leader or a piece of history in the world.
