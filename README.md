@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning java/cybersecurity/gamedevelopment 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribuate to a big project
+- 🥅 2021 Goals: Get Mastery on Java Object Orientation
 - 🌱 Life Goal: Became someone markable, no matter that it's as a friend, a leader or a piece of history in the world.
 - ⚡ Fun fact: I love to design logos,and analise everything on my surrouding.
 
