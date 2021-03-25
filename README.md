@@ -1,3 +1,5 @@
+[<img src="https://i.imgur.com/YgoZmnv.png" />]
+
 ### Hi there, I'm Daniel - aka Madakey 👋
 
 ## I'm a Gamer, Artist and Developer!!
@@ -17,7 +19,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<img src="https://imgur.com/a/vQ7g8Tf" />
+
 
 
 <br />
