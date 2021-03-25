@@ -6,7 +6,7 @@
 
 <img src="https://i.imgur.com/8OcUnjJ.png">
 
-<span>I'm a Gamer, Artist and Developer!!
+<span align="right">I'm a Gamer, Artist and Developer!!</span>
 
 - 🌱 I’m currently learning java/cybersecurity/gamedevelopment 🤣
 - 👯 I’m looking to collaborate with other content creators
