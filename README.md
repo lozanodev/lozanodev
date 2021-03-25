@@ -4,7 +4,8 @@
 
 
 <img src="https://i.imgur.com/8OcUnjJ.png">
-## I'm a Gamer, Artist and Developer!!
+
+##I'm a Gamer, Artist and Developer!!
 
 - 🌱 I’m currently learning java/cybersecurity/gamedevelopment 🤣
 - 👯 I’m looking to collaborate with other content creators
