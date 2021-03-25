@@ -2,8 +2,6 @@
 
 <img src="https://i.imgur.com/FDnUG1j.png">
 
-<img src="https://i.pinimg.com/originals/91/95/f4/9195f4dd1b69f90038f627c8af422429.gif" width="1280">
-
 <img src="https://i.imgur.com/8OcUnjJ.png">
 
 <span text-align="right">I'm a Gamer, Artist and Developer!!</span>
