@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/FDnUG1j.png">
 
 
-[<img src="https://i.imgur.com/gFKao1i.png" witdh="100px">]
+<img src="https://i.imgur.com/9UcJu9u.png">
 ## I'm a Gamer, Artist and Developer!!
 
 - 🌱 I’m currently learning java/cybersecurity/gamedevelopment 🤣
