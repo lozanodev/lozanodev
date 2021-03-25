@@ -14,7 +14,7 @@ I'm a Gamer, Artist and Developer!!
 - 🌱 Life Goal: Became someone markable, no matter that it's as a friend, a leader or a piece of history in the world.
 - ⚡ Fun fact: I love to design logos,and analise everything on my surrouding.
 
-<img src="https://giphy.com/stickers/cat-kawaii-neko-A9dZqpVpbLsju">
+<img src="https://media0.giphy.com/media/A9dZqpVpbLsju/giphy.gif">
 
 <img src="https://i.imgur.com/NdJ5BPW.png">
 
