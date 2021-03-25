@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/YgoZmnv.png" />
-
 ### Hi there, I'm Daniel - aka Madakey 👋
 
 ## I'm a Gamer, Artist and Developer!!
