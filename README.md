@@ -13,6 +13,8 @@ I'm a Gamer, Artist and Developer!!
 - 🌱 Life Goal: Became someone markable, no matter that it's as a friend, a leader or a piece of history in the world.
 - ⚡ Fun fact: I love to design logos,and analise everything on my surrouding.
 
+<img src="https://i.imgur.com/NdJ5BPW.png">
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz)
