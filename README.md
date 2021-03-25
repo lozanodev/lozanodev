@@ -1,5 +1,7 @@
 ### Hi there, I'm Daniel - aka Madakey 👋
 
+<img src="https://i.imgur.com/9hNeNqk.png">
+
 ## I'm a Gamer, Artist and Developer!!
 
 - 🌱 I’m currently learning java/cybersecurity/gamedevelopment 🤣
