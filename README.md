@@ -3,6 +3,7 @@
 <img src="https://i.imgur.com/FDnUG1j.png">
 
 
+<img src="https://i.imgur.com/gFKao1i.png">
 ## I'm a Gamer, Artist and Developer!!
 
 - 🌱 I’m currently learning java/cybersecurity/gamedevelopment 🤣
