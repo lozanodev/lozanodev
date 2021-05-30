@@ -4,7 +4,7 @@
 
 <span text-align="right">I'm a Gamer, Artist and Developer!!</span>
 
-- 🌱 I’m currently learning java/cybersecurity 🤣
+- 🌱 I’m currently learning java/cybersecurity
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Get Mastery on Java Object Orientation
 - 🌱 Life Goal: Became someone markable, no matter that it's as a friend, a leader or a piece of history in the world.
