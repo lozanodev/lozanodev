@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning java/cybersecurity
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Get Mastery on Java Object Orientation
+- 🥅 2021 Goals: Get Mastery on Java Object Orientation and be a better person
 - 🌱 Life Goal: Became someone remarkable, no matter that it's as a friend, a leader or a piece of history in the world.
 - ⚡ Fun fact: I love to design logos,and analise everything on my surrouding.
 
