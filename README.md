@@ -2,11 +2,8 @@
 
 <img src="https://i.imgur.com/8OcUnjJ.png" align="center">
 
-<span text-align="right">I'm a Gamer, Artist and Developer!!</span>
-
-- 🌱 I’m currently learning java/cybersecurity
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Get Mastery on Java Object Orientation and be a better person
+- 🌱 I’m currently learning cybersecurity/automation
+- 🥅 2022 Goals: Became a master on Cyber Security
 - 🌱 Life Goal: Became someone remarkable, no matter that it's as a friend, a leader or a piece of history in the world.
 - ⚡ Fun fact: I love to design logos,and analise everything on my surrouding.
 
